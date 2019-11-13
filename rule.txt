@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 201911131624
-! Title: 自用过滤器
+! Title:自用过滤器
 ! Last modified: 13 Nov 2019 16:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/Burn-Sin/adguard
@@ -11,14 +11,12 @@
 ! or via e-mail (easylist.subscription@gmail.com).
 ! GitHub issues: https://github.com/easylist/easylist/issues
 ! GitHub pull requests: https://github.com/Burn-Sin/adguard
-! 
 ! -----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
-
-
 ||gyt168.com.cn^
 ||sztjdz.com.cn^
 ||s.xjjkjo.pw^
+
 500px.com###hellobar
 bing.com###banner
 coding.net##.smart-app-banner
@@ -261,7 +259,7 @@ chaturbate.com##.banner
 ! Facebook
 www.facebook.com###pagelet_side_ads
 www.facebook.com##.egoOrganicColumn+*
-! 风车动漫
+! йЈЋиЅ¦еЉЁжј«
 m.fcdm.cc##[style*="position:relative;width:100%;height:auto;clear:both;overflow:hidden"]
 m.fcdm.cc##[style*="position:fixed;height:200px;top:0px;left:0;width:100%;background:rgba(0,0,0,0)"]
 m.fcdm.cc##[style*="position: fixed; bottom: 0px; width: 100%"]
