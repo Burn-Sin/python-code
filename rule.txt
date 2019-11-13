@@ -1,15 +1,3 @@
-[Adblock Plus 2.0]
-! Checksum: ibi4xmn9Fw0Vft19gm2A4w
-! Title: My AdFilters
-! Expires: 12 hours
-! Version: 201911131430
-! Last Modified: 2019年11月13日 14:30
-! Homepage: https://adf.minggo.eu.org
-!
-! Fix for MS Edge
-tieba.baidu.com###pagelet_entertainment-liveshow\/pagelet\/video_head
-! Start
-
 ||gyt168.com.cn^
 ||sztjdz.com.cn^
 ||s.xjjkjo.pw^
