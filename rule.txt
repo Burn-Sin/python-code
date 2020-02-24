@@ -5,3 +5,4 @@
 baidu.com###page-copyright
 bilibili.com###fixed_app_download
 baidu.com###content_right
+||v3-ad.ixigua.com^$app=com.xhtt.app.fzjh
